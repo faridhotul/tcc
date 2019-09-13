@@ -21,42 +21,56 @@ Kemudian akan muncul kotak dialog autentifikasi maka pilih _**YES**_
 3. Pilih lokasi yang akan digunakan untuk menginstall git bash. Kemudian _**Next**_
 ![gambar 04](04.jpg)
 
+
 4. Pilih komponen yang akan diinstall di local. Biarkan default. Kemudian _**Next**_
 ![gambar 05](05.jpg)
+
 
 5. Anda akan diminta untuk memilih folder mana yang akan diinstall i git. Pilih default saja. Kemudian _**Next**_
 ![gambar 06](06.jpg)
 
+
 6. Pilihlah editor default yang akan digunakan. Pilih saja notpad++. Kemudian _**Next**_
 ![gambar 07](07.jpg)
+
 
 7. Pilih default pada bagian PATH. Kemudian _**Next**_
 ![gambar 08](08.jpg)
 
+
 8. Pilih default pada bagian ini. Kemudian _**Next**_
 ![gambar 09](09.jpg)
+
 
 9. Pilih default pada bagian ini. Kemudian _**Next**_
 ![gambar 10](10.jpg)
 
+
 10. Pilih default pada bagian konfigurasi terminal emulator. Kemudian _**Next**_
 ![gambar 11](11.jpg)
+
 
 11. Pilih default pada bagian konfigurasi fitur yang akan diinstall. Kemudian _**Next**_
 ![gambar 12](12.jpg)
 
+
 12. Pada bagian terakhir, kita langsung biarkan default saja. Kemudian _**Install**_
 ![gambar 13](13.jpg)
+
 
 13. Proses instalasi sedang berjalan, tunggu hingga proses selesai.
 ![gambar 14](14.jpg)
 
+
 14. Proses instalasi sudah selesai. Pilih _**Finish**_
 ![gambar 15](15.jpg)
 
+
 14. Untuk mencari git bash yang sudah kita install, kita cukup masuk ke _**Star**_ >> cari _**git**_ >> pilih yang _**git bash**_
 ![gambar 16](16.jpg)
+
 Tampilan diatas adalah tampilan yang menggambarkan penggunaan git dengan CLI/ command line. 
+
 
 15 Untuk tampilan yang GUI, kita bisa klik kanan pada folder kerja kita, kemudian pilih _**Git GUI Here**_
 ![gambar 17](17.jpg)
