@@ -4,12 +4,13 @@
 ## PRAKTIK INSTALASI GIT!
 
 1. Mendaftarkan akun melalui github.com
-2.	Membuat repository bernama tcc
+2. Membuat repository bernama tcc
 ![Repository](01.png)
 
 **Instalasi Git bash**
 1. Setelah di download, double klik file instalasi git bash. 
 
-![Buka File.exe](02.png)
+![gambar 02](02.png)
 
-Kemudian akan muncul kotak dialog autentifikasi maka pilih “YES”
+Kemudian akan muncul kotak dialog autentifikasi maka pilih _**YES**_
+2. Akan muncul Kotak dialog untuk menyetujui lisensi yang ada pada git, pilih _**Next**_
