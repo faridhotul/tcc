@@ -13,4 +13,10 @@
 ![gambar 02](02.png)
 
 Kemudian akan muncul kotak dialog autentifikasi maka pilih _**YES**_
+
 2. Akan muncul Kotak dialog untuk menyetujui lisensi yang ada pada git, pilih _**Next**_
+![gambar 02](03.jpg)
+
+
+3. Pilih lokasi yang akan digunakan untuk menginstall git bash. Kemudian _**Next**_
+![gambar 02](04.jpg)
