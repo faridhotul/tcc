@@ -35,42 +35,54 @@ Kemudian akan muncul kotak dialog autentifikasi maka pilih _**YES**_
 
 
 7. Pilih default pada bagian PATH. Kemudian _**Next**_
+
 ![gambar 08](08.jpg)
 
 
 8. Pilih default pada bagian ini. Kemudian _**Next**_
+
 ![gambar 09](09.jpg)
 
 
 9. Pilih default pada bagian ini. Kemudian _**Next**_
+
 ![gambar 10](10.jpg)
 
 
 10. Pilih default pada bagian konfigurasi terminal emulator. Kemudian _**Next**_
+
 ![gambar 11](11.jpg)
 
 
 11. Pilih default pada bagian konfigurasi fitur yang akan diinstall. Kemudian _**Next**_
+
 ![gambar 12](12.jpg)
 
 
 12. Pada bagian terakhir, kita langsung biarkan default saja. Kemudian _**Install**_
+
 ![gambar 13](13.jpg)
 
 
 13. Proses instalasi sedang berjalan, tunggu hingga proses selesai.
+
 ![gambar 14](14.jpg)
 
 
 14. Proses instalasi sudah selesai. Pilih _**Finish**_
+
 ![gambar 15](15.jpg)
 
 
-14. Untuk mencari git bash yang sudah kita install, kita cukup masuk ke _**Star**_ >> cari _**git**_ >> pilih yang _**git bash**_
+15. Untuk mencari git bash yang sudah kita install, kita cukup masuk ke _**Star**_ >> cari _**git**_ >> pilih yang _**git bash**_
+
 ![gambar 16](16.jpg)
+
+![gambar 17](17.jpg)
 
 Tampilan diatas adalah tampilan yang menggambarkan penggunaan git dengan CLI/ command line. 
 
 
-15 Untuk tampilan yang GUI, kita bisa klik kanan pada folder kerja kita, kemudian pilih _**Git GUI Here**_
-![gambar 17](17.jpg)
+16 Untuk tampilan yang GUI, kita bisa klik kanan pada folder kerja kita, kemudian pilih _**Git GUI Here**_
+
+![gambar 18](18.jpg)
