@@ -86,3 +86,21 @@ Tampilan diatas adalah tampilan yang menggambarkan penggunaan git dengan CLI/ co
 16 Untuk tampilan yang GUI, kita bisa klik kanan pada folder kerja kita, kemudian pilih _**Git GUI Here**_
 
 ![gambar 18](18.jpg)
+
+
+## Clone data dari repository git
+1.	Masuk ke repository yang akan di clone
+2.	Pilih menu “clone or download”
+3.	Copy url yang akan digunakan untuk clone
+
+![gambar 19](19.jpg)
+
+4. Klik kanan pada folder yang akan diclone repositorynya, pilih Git Bash Here
+
+![gambar 20](20.jpg)
+
+5. kemudian ketikan :
+
+$ git clone (paste kan url yang sudah di copy di point 3). Tunggu hingga proses selesai. 
+
+![gambar 21](21.jpg)
