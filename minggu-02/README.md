@@ -18,4 +18,5 @@
 
 4. Untuk melihat konfigurasi, ketikkan :
    `$ git config --list`
+   
    ![konfigurasi](03.png)
