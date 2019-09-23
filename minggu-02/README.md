@@ -180,7 +180,7 @@ Klik **Merge pull request"**
 
 ![gambar 21](21.png)
 
-Klik "confirm merge"**
+Klik **"confirm merge"**
 
 ![gambar 22](22.png)
 
@@ -209,10 +209,71 @@ g. Merge branch untuk menampung perubahan-perubahan tersebut ke master.
 
 ![gambar 35](35.png)
 
-f. Selesai.
-
+h. Selesai.
 
 
 ### 4. Sinkronisasi
-5. Membatalkan Perubahan
-6. Undo Commit Terakhir
+
+`$ git pull`
+
+
+### 5. Membatalkan Perubahan
+
+a. Membuat branch untuk menampung perubahan-perubahan
+
+`$ git checkout -b edit-readme-2`
+
+![gambar 36](36.png)
+
+b. Membuat file
+
+`$ vim README.md`
+
+![gambar 37](37.png)
+
+`$ cat README.md`
+
+![gambar 38](38.png)
+
+c. Kembali ke master
+
+`$ git checkout master`
+
+![gambar 39](39.png)
+
+d. Melihat file
+
+`$ cat README.md`
+
+![gambar 40](40.png)
+
+e. Menghapus branch
+
+`$ git branch -D edit-readme-2`
+
+![gambar 41](41.png)
+
+`$ git branch`
+
+![gambar 42](42.png)
+
+f. Melihat perubahan file walaupun brach sudah dihapus
+
+`$ cat README.md`
+
+![gambar 43](43.png)
+
+g. Melakukan pembatalan perubahan
+
+`$ git reset --hard`
+
+![gambar 44](44.png)
+
+h. Melihat file, perubahan tidak terjadi
+
+`$ cat README.md`
+
+![gambar 45](45.png)
+
+
+### 6. Undo Commit Terakhir
