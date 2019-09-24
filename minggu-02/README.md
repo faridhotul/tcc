@@ -277,3 +277,49 @@ h. Melihat file, perubahan tidak terjadi
 
 
 ### 6. Undo Commit Terakhir
+
+Pada syntax dibawah ini kita akan mengubah menjadi beberapa file baru
+
+![gambar 46](46.png)
+
+![gambar 47](47.png)
+
+Contoh di atas adalah contoh untuk mengubah README.md dengan beberapa commit. Setelh itu, kita akan mengembalikan ke posisi terakhir sebelum commit terakhir.
+
+`$ git revert HEAD`
+
+
+Perintah di atas akan membuka editor. Pada editor tersebut kita bisa mengetikkan pesan revert ( = pesan commit untuk pembatalan). Setelah selesai, simpan:
+
+![gambar 48](48.png)
+
+Selanjutnya, tinggal di-push ke repo GitHub.
+
+![gambar 49](49.png)
+
+Jika commit sudah dilakukan, tetapi belum di-push ke repo GitHub (masih berada di lokal), cara membatalkannya:
+
+![gambar 50](50.png)
+
+![gambar 51](51.png)
+
+Untuk kembali ke perubahan pada saat yang sudah lama, yang perlu dilakukan adalah melakukan git revert <posisi> kemudian mengedit secara manual kemudian push ke repo.
+
+![gambar 52](52.png)
+
+Setelah itu, jika dilihat pada file, akan muncul tambahan untuk memudahkan meng-edit. File ini harus di-resolve terlebih dahulu, setelah itu baru di add dan commit:
+
+![gambar 53](53.png)
+
+Edit file tersebut, setelah itu simpan.
+
+![gambar 54](54.png)
+
+Setelah itu, lanjutkan proses revert. Saat git revert --continue isikan pesan revert.
+
+![gambar 55](55.png)
+
+
+## PRAKTIK MENGELOLA REPO DI ORGANISASI
+
+![gambar 56](56.png)
