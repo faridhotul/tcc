@@ -62,7 +62,8 @@ I will try to use executable instalation.
 
 11.Kemudian, silahkan buat Bridge Network pada docker
 
-	```C:\Users\faridhotul>docker network create -d bridge roachnet
+	```
+	C:\Users\faridhotul>docker network create -d bridge roachnet
 	1f3ba672fe2ab44473730ce81de430782aadf9448fbca225a76991a19bb1e516
 	```
 
