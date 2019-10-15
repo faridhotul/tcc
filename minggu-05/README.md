@@ -102,6 +102,7 @@ I will try to use executable instalation.
 15. Kemudian, kita buat database baru dengan nama tcc.
 
 	```
+	root@:26257/defaultdb>  create database tcc;
 	CREATE DATABASE
 
 	Time: 212.095ms
