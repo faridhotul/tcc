@@ -1,0 +1,9 @@
+# PRAKTIKUM TEKNOLOGI CLOUD - PERTEMUAN 7
+
+## NAMA : FARIDHOTUL KHASANAH / 175410026
+## PRAKTIKUM - Zeit
+
+
+## PRAKTIKUM - pythonanywhere.com
+
+## PRAKTIKUM - gigalixir
