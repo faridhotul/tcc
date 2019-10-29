@@ -82,3 +82,14 @@ PS C:\Users\User\faridhotul> docker push faridhotul/faridhotul:v1
 The push refers to repository [docker.io/faridhotul/faridhotul]
 26fed130bdf4: Pushed                                                                                                    bba7d2385bc1: Mounted from faridhotul/faridhotul                                                                      77cae8ab23bf: Mounted from faridhotul/faridhotul                                                                      v1: digest: sha256:ed241f764596d450bcfd25b62534d503a7a1ac23d8b8d318b2e6940dc5ccc4d4 size: 946
 ```
+
+Note:
+
+Pada File DockerFile terdapat :
+
+```
+FROM nginx:alpine
+COPY . /usr/share/nginx/html
+```
+
+Artinya adalah mengekspos port 80 untuk melayani permintaan via protokol HTTP yang asal datanya dari /usr/share/nginx. Sehingga asal data, dinamakan DocumentRoot. DocumentRoot adalah lokasi direktori/folder yang akan dipublikasi via HTTP
