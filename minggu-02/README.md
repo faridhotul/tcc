@@ -323,3 +323,5 @@ Setelah itu, lanjutkan proses revert. Saat git revert --continue isikan pesan re
 ## PRAKTIK MENGELOLA REPO DI ORGANISASI
 
 ![gambar 56](56.png)
+
+
