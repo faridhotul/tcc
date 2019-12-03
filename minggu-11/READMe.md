@@ -15,6 +15,7 @@
 Dengan persembahan jaringan global AT & T, Anda dapat mengoptimalkan komputasi,penyimpanan, perangkat lunak, pengembangan dan bahkan sumber daya jaringan dalam lingkungan berbasis cloud. AT & T menawarkan end-to-end kapasitas pengiriman pada skala global, didukung oleh puluhan tahun pengalaman dan keahlian terbesar. Bersama dengan ekosistem penyedia layanan kami yang luas, kami menyediakan luasnya besar kemampuan cloud, keamanan, dan jaringan. Semua melalui titik kontak.
 ![gambar contoh](AT&TCloudSolution.png)
 
+<<<<<<< HEAD
 2.2 Amazon EC2
 Amazon EC2 dalah platform komputasi berupa virtual computer yang dapat di kustomisasi maupun di kembangkan dengan menggunakan prinsip cluster dan load balance. Untuk deployment nya sendiri sangat mudah sekali karena hanya perlu memilih image yang disebut AMI (Amazon Machine Instances) dan setup hanya perlu 5-10 menit.
 ![gambar contoh](amazon.png)
@@ -26,3 +27,7 @@ NaviSite, Inc., merupakan Time Warner Cable Company, adalah penyedia internasion
 **3. GETTING STARTED IAAS**
 
 **4. ARSITEKTUR DAN KONSEP DEPLOYMENT PADA PROXMOX**
+=======
+4. ARSITEKTUR DAN KONSEP DEPLOYMENT PADA PROXMOX
+afdfhowu rvn
+>>>>>>> origin
