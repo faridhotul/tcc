@@ -29,6 +29,5 @@ NaviSite, Inc., merupakan Time Warner Cable Company, adalah penyedia internasion
 **3. GETTING STARTED IAAS**
 
 **4. ARSITEKTUR DAN KONSEP DEPLOYMENT PADA PROXMOX**
-=======
-4. ARSITEKTUR DAN KONSEP DEPLOYMENT PADA PROXMOX
-afdfhowu rvn
+
+ ![gambar contoh](arsitektur-proxmox.jpg)
