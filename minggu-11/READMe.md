@@ -31,3 +31,5 @@ NaviSite, Inc., merupakan Time Warner Cable Company, adalah penyedia internasion
 **4. ARSITEKTUR DAN KONSEP DEPLOYMENT PADA PROXMOX**
 
  ![gambar contoh](arsitektur-proxmox.jpg)
+
+ Proxmox mendukung beberapa metode manajemen user, di antaranya adalah LDAP, Active Diretory (AD), Linux PAM, dan Proxmox VE authentication server. LDAP dan AD membutuhkan server eksternal khusus untuk autentikasi. Sedangkan Linux PAM dan Proxmox VE authentication merupakan autentikasi internal. Konsep manajemen user ini memungkinkan kita untuk membuat user dan group lalu memberikan role dan permission untuk pengelolaan Proxmox VE. Kita juga dapat memberikan akses mengubah konfigurasi komponen seperti storage, VM, atau sistem ke user/group tertentu saja. Kita bahkan dapat membuat user/group yang hanya dapat melihat tapi tidak dapat mengubah konfigurasi.
