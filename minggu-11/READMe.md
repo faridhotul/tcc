@@ -1,6 +1,6 @@
 # PRAKTIKUM TEKNOLOGI CLOUD - PERTEMUAN 11
 
-## NAMA : ARVIAN EKA SAPUTRA (175410041) FARIDHOTUL KHASANAH (175410026)
+## NAMA : ARVIAN EKA SAPUTRA (175410041) || FARIDHOTUL KHASANAH (175410026) || ROCHMAD WIDIANTO (185410014)
 ## PRAKTIKUM - IAAS
 ---------------------------------------------
 **1. KONSEP IAAS**
@@ -27,6 +27,69 @@ NaviSite, Inc., merupakan Time Warner Cable Company, adalah penyedia internasion
 ![gambar contoh](navisite.png)
 
 **3. GETTING STARTED IAAS**
+Instalasi Proxmox
+
+![gambar 1](1.png)
+
+![gambar 2](2.png)
+
+![gambar 3](3.png)
+
+![gambar 4](4.png)
+
+![gambar 5](5.png)
+
+![gambar 6](6.png)
+
+![gambar 7](7.png)
+
+![gambar 8](8.png)
+
+![gambar 9](9.png)
+
+![gambar 10](10.png)
+
+![gambar 11](11.png)
+
+![gambar 12](12.png)
+
+![gambar 13](13.png)
+
+![gambar 14](14.png)
+
+![gambar 15](15.png)
+
+![gambar 16](16.png)
+
+![gambar 17](17.png)
+
+![gambar 18](18.png)
+
+![gambar 19](19.png)
+
+![gambar 20](20.png)
+
+![gambar 21](21.png)
+
+![gambar 22](22.png)
+
+![gambar 23](23.png)
+
+![gambar 24](24.png)
+
+![gambar 25](25.png)
+
+![gambar 26](26.png)
+
+![gambar 27](27.png)
+
+![gambar 28](28.png)
+
+![gambar 29](29.png)
+
+![gambar 30](30.png)
+
+
 
 **4. ARSITEKTUR DAN KONSEP DEPLOYMENT PADA PROXMOX**
 
